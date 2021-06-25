@@ -4,4 +4,4 @@
 * Nosotros
 * Contacto
 ### Para ver el proyecto del sitio web finalizado ingrese al siguiente link:
-*  https://frosty-swanson-454540.netlify.app/
+*  https://blogdecafeproyectoblogcafe.netlify.app/
